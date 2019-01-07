@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', serif;
+}
+
+header {
+    background: #03a9f4;
+    text-align: center;
+}
+
+.logo {
+    color: #fff;
+    font-family: 'Anton', serif;
+    font-size: 40px;
+}
+
+.titled {
+    color: #fff;
+    font-family: 'Roboto', serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+header input {
+    font-size: 20px;
+    margin: 20px 0;
+}
